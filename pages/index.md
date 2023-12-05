@@ -1,6 +1,6 @@
 # Advent of Code in SQL
 
-This project contains solutions for [Advent of Code 2023](https://adventofcode.com/2023/) using Evidence.
+This project contains solutions for [Advent of Code 2023](https://adventofcode.com/2023/) using Evidence. Source code is available on [GitHub](https://github.com/archiewood/advent-of-code).
 
 [Evidence](https://evidence.dev) allows you to deploy a data website using SQL.
 
